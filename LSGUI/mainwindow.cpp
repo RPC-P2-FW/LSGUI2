@@ -85,7 +85,8 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
 
-
+    //online modification
+    
     unsigned long int apple = 20 ;
     printf("address of Apple : 0x%x \n" , &apple);
     printf("Value of Apple : %d \n" , apple);
@@ -156,8 +157,6 @@ MainWindow::MainWindow(QWidget *parent)
 
     ui->RB_CB_DB_Port1->setChecked(1);
     ui->RB_CB_DB_Port2->setChecked(0);
-
-
 
 
     ui->ChBx_CB_FPGA_VCORE  ->setDisabled(1);
