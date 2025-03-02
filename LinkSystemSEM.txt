@@ -1,0 +1,124 @@
+
+ =========================
+ No.1 - Clock :%4 21 : 58 : 20
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.1 - Clock : 21 : 59 : 05
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.2 - Clock : 21 : 59 : 09
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.3 - Clock : 21 : 59 : 16
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.4 - Clock : 21 : 59 : 20
+ COMMAND SEM STATUS
+ 
+ =========================
+ No.5 - Clock : 21 : 59 : 20
+  SEM REPORT 
+ ISC 00I> SMF 000031BFSN 00SC 00FC 00FS 0BI>                                                                     
+ =========================
+ No.6 - Clock : 21 : 59 : 53
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.7 - Clock : 22 : 00 : 00
+ COMMAND SEM STATUS
+ 
+ =========================
+ No.8 - Clock : 22 : 00 : 00
+  SEM REPORT 
+ SMF 000031BFSN 00SC 00FC 00FS 0BI>
+ S
+MF 000031BF
+SN 00
+SC 00
+FC 00
+FS 0B
+I>                                                                                 
+ =========================
+ No.9 - Clock : 22 : 00 : 58
+ COMMAND SEM STATUS
+ 
+ =========================
+ No.10 - Clock : 22 : 00 : 58
+  SEM REPORT 
+ SMF 000031BFSN 00SC 00FC 00FS 0BI>                                                                                
+ =========================
+ No.11 - Clock : 22 : 01 : 21
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.12 - Clock : 22 : 01 : 34
+ COMMAND SEM OBSERVATION
+ 
+ =========================
+ No.13 - Clock : 22 : 01 : 34
+  SEM REPORT 
+ OSC 02O>                                                                                                              
+ =========================
+ No.1 - Clock : 22 : 03 : 39
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.2 - Clock : 22 : 03 : 45
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.3 - Clock : 22 : 03 : 48
+ COMMAND SEM STATUS
+ 
+ =========================
+ No.4 - Clock : 22 : 03 : 48
+  SEM REPORT 
+ ISC 00I> SMF 000031BFSN 00SC 00FC 00FS 0BI>                                                                     
+ =========================
+ No.5 - Clock : 22 : 03 : 52
+ COMMAND SEM RESET
+ 
+ =========================
+ No.6 - Clock : 22 : 03 : 52
+  SEM REPORT 
+ R 00X7_SEM_V4_1SC 01FS 0BICAP OKRDBK OKINIT                                                                       
+ =========================
+ No.7 - Clock : 22 : 03 : 54
+  SEM REPORT 
+ OKSC 02O>                                                                                                             
+ =========================
+ No.8 - Clock : 22 : 04 : 18
+ COMMAND SEM RESET
+ 
+ =========================
+ No.9 - Clock : 22 : 04 : 18
+  SEM REPORT 
+ ISC 00I> R 00X7_SEM_V4_1SC 01FS 0BICAP OKRDBK                                                                    
+ =========================
+ No.10 - Clock : 22 : 04 : 18
+  SEM REPORT 
+ OKINIT                                                                                                                 
+ =========================
+ No.11 - Clock : 22 : 04 : 19
+  SEM REPORT 
+ OKSC 02O>                                                                                                             
+ =========================
+ No.12 - Clock : 22 : 04 : 33
+ COMMAND SEM MONITORING STATUS
+ 
+ =========================
+ No.13 - Clock : 22 : 04 : 39
+ COMMAND SEM OBSERVATION
+ 
+ =========================
+ No.14 - Clock : 22 : 04 : 56
+ COMMAND SEM STATUS
+ 
+ =========================
+ No.15 - Clock : 22 : 04 : 56
+  SEM REPORT 
+ ISC 00I> SMF 000031BFSN 00SC 00FC 00FS 0BI>                                                                     

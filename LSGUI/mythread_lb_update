@@ -1,0 +1,29 @@
+#include "mythread_lb_update"
+
+class mythread_lb_updateData : public QSharedData
+{
+public:
+
+};
+
+mythread_lb_update::mythread_lb_update(QWidget *parent) : QWidget(parent), data(new mythread_lb_updateData)
+{
+
+}
+
+mythread_lb_update::mythread_lb_update(const mythread_lb_update &rhs) : data(rhs.data)
+{
+
+}
+
+mythread_lb_update &mythread_lb_update::operator=(const mythread_lb_update &rhs)
+{
+    if (this != &rhs)
+        data.operator=(rhs.data);
+    return *this;
+}
+
+mythread_lb_update::~mythread_lb_update()
+{
+
+}
